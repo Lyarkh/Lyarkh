@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lyarkh-CSS" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">   
   
   ##
-  
-  <div align ="center"> 
+ <div align ="center"> 
   <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25" width="74"></a>
   <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a> 
  
