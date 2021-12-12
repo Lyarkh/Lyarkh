@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ##
   
   <div align ="right"> 
-  <a height="37" width="37" href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="37" width="37"></a>
   <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
     
