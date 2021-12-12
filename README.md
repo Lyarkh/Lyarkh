@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/Lyarkh">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyarkh&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyarkh&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lyarkh-Pyhton" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
