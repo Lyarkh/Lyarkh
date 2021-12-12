@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   ##
   
  <div align ="center"> 
-  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25" width="74"></a>
+  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25" width="74" style="border-radius:50px;"></a>
   <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a> 
  
     
