@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lyarkh-C" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Lyarkh-HTML" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Lyarkh-CSS" height="33" width="33"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="right" alt="Lyarkh-pic" border-radius="25" height="170"  src="https://cdn.discordapp.com/attachments/884155938985111702/919947401568067584/o_eu.png">
+  <img align="right" alt="Lyarkh-pic" height="170"  src="https://cdn.discordapp.com/attachments/884155938985111702/919947401568067584/o_eu.png" style="border-radius: 1px solid">
 </div>
   
   ##
