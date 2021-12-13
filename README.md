@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align="center" style="display: inline-block"><br>
+<div align="left" style="display: inline-block"><br>
   <img align="center"  alt="Lyarkh-Pyhton" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lyarkh-C" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Lyarkh-HTML" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
