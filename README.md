@@ -1,12 +1,10 @@
  
  <h1 align = "center"/>  Oiie, eu sou o Lucas ☕️</h1>
- 
- <div align="center">
- 
+  
 - 👨‍🎓 Sou estudante de engenharia mecatrônica na UDF
 - 🧠 Atualmente estou dando início aos estudos em ciência de dados com Python e sobre banco de dados SQL e noSQL
 
- </div>
+
 
 
 <div align="center">
