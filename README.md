@@ -26,7 +26,7 @@
  
   
   
- <div align="right" style="display: inline">
+ <div align="left" style="display: inline">
   
   <h3>Ferramentas em aprendizado</h3>
   
