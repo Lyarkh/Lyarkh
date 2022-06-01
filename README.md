@@ -2,7 +2,7 @@
  <h1 align = "center"/>  Oiie, eu sou o Lucas ☕️</h1>
   
 - 👨‍🎓 Sou estudante de análise e desenvolvimento de sistemas na UCB.
-- 🧠 Atualmente estou estudando data science com python, html, css e react.
+- 🧠 Atualmente estou estudando data science com python, html, css e javascript.
 
 
 <div align="center">
