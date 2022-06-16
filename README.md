@@ -32,8 +32,9 @@
   
   <img align="center" alt="Lyarkh-HTML" height="33" width="33" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
   <img align="center" alt="Lyarkh-CSS" height="33" width="33"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
-  <img align="center" alt="Lyarkh-JS" height="33" width="33"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Lyarkh-REACT" height="33" width="33"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
+  <img align="center" alt="Lyarkh-MYSQL" height="33" width="33"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="Lyarkh-SELENIUM" height="33" width="33"  src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Lyarkh-DOCKER" height="50" width="50"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
  </div>
   
 ---
