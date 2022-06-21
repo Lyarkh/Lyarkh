@@ -1,8 +1,18 @@
  
  <h1 align = "center"/>  Oiie, eu sou o Lucas ☕️</h1>
+ 
+ ```python
+  Lucas = {
+     country: 'Brazil',
+     studying: 'Análise e desenvolvimento de sistemas na UCB',
+     stack: ['HTML', 'CSS', 'Python', 'Mysql', 'Scrum'],    
+     interestedIn: ['Selenium', 'Docker', 'AWS', 'Java'],
+     hobbies: ['Games', 'Animes', 'Movies']
+ };
+```
   
-- 👨‍🎓 Sou estudante de análise e desenvolvimento de sistemas na UCB.
-- 🧠 Atualmente estou estudando data science com python, e automação de processos.
+<!-- - 👨‍🎓 Sou estudante de análise e desenvolvimento de sistemas na UCB. -->
+<!-- - 🧠 Atualmente estou estudando data science com python, e automação de processos. -->
 
 
 <div align="center">
@@ -53,5 +63,9 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lyarkh&color=blueviolet" alt="Profile views"/> </p>
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=Lyarkh&theme=gotham&hide_border=true&area=true)
-    
+ 
+ <div align="center">
+  
   ![Snake animation](https://github.com/Lyarkh/Lyarkh/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
