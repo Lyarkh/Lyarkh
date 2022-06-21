@@ -52,5 +52,6 @@
  <br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lyarkh&color=blueviolet" alt="Profile views"/> </p>
   
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Lyarkh&theme=gotham&hide_border=true&area=true)
     
   ![Snake animation](https://github.com/Lyarkh/Lyarkh/blob/output/github-contribution-grid-snake.svg)
