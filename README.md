@@ -11,6 +11,7 @@
  };
 ```
   
+  
 <!-- - 👨‍🎓 Sou estudante de análise e desenvolvimento de sistemas na UCB. -->
 <!-- - 🧠 Atualmente estou estudando data science com python, e automação de processos. -->
 
