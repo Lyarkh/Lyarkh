@@ -4,7 +4,7 @@
 
 <div align="center">
   <div>
-    <img src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s640x960/f18768c555e4c0e2e96e4ee049e7a89778a9b775.gifv" width="600px" align="center">
+    <img src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gifv" width="600px" align="center">
   </div>
 </div>
 
