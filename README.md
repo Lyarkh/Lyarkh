@@ -12,6 +12,7 @@
 <h1>About me</h1>
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília <br>
 Python Developer<br>
+Enthusiast of Data Science <br>
 </div>
 
 <div align="center">
