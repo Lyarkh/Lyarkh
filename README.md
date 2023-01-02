@@ -49,13 +49,6 @@ Enthusiast of Data Science <br>
 </div>
 
 <div align="center">
-<h1>Quotes</h1> 
- 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
-  
-</div>
-
-<div align="center">
 <h1>Jokes</h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
