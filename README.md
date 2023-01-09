@@ -44,7 +44,7 @@ Enthusiast of Data Science <br>
 <div align="center">
 <h1>Snake Game</h1>
 
-  ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)
+  ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake.svg)
   
 </div>
 
