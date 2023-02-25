@@ -12,8 +12,7 @@
 <h1>About me</h1>
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília <br>
 Estudante de Engenharia de Software <br>
-Python Developer<br>
-Enthusiast of Machine Learning <br>
+Python Developer and Enthusiast of Machine Learning <br>
 </div>
 
 <div align="center">
