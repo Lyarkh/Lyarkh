@@ -28,7 +28,7 @@ Enthusiast of Machine Learning <br>
 <h1>Stacks</h1>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,html,css,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git" />
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   </a>
