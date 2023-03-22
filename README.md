@@ -37,7 +37,7 @@ Python Developer and Enthusiast of Machine Learning <br>
 <div align="center">
 <h1>Stats</h1>
   <a href="https://github.com/Lyarkh">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Lyarkh&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Lyarkh&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
   <!--
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 -->
