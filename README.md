@@ -15,13 +15,6 @@ Estudante de Engenharia de Software <br>
 Python Developer and Enthusiast of Machine Learning <br>
 </div>
 
-<div align="center">
-  <h1>Contact</h1>
-  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=1A1B27&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?&color=1A1B27&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=1A1B27&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://profile.codersrank.io/user/Lyarkh" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=1A1B27&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a> 
-</div>
 
 <div align="center">
 <h1>Stacks</h1>  
@@ -43,6 +36,14 @@ Python Developer and Enthusiast of Machine Learning <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyarkh&layout=compact&langs_count=8&theme=dark"/>
+</div>
+  
+  <div align="center">
+  <h1>Contact</h1>
+  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=1A1B27&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?&color=1A1B27&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=1A1B27&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://profile.codersrank.io/user/Lyarkh" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=1A1B27&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
