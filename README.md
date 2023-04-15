@@ -47,16 +47,16 @@ Python Developer and Enthusiast of Machine Learning <br>
 </div>
 
 <div align="center">
+<h1>Jokes</h1>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+</div>
+  
+<div align="center">
 <h1>Snake Game</h1>
 
   ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)
   
-</div>
-
-<div align="center">
-<h1>Jokes</h1>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
 <div align="center">
