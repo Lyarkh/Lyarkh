@@ -43,18 +43,20 @@ Python Developer and Enthusiast of Machine Learning <br>
   <a href="https://profile.codersrank.io/user/Lyarkh" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=1A1B27&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-<h1>Jokes</h1>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-</div>
-  
 <div align="center">
 <h1>Snake Game</h1>
 
   ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)
   
 </div>
+  
+  <div align="center">
+<h1>Jokes</h1>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+</div>
+  
 
 <div align="center">
 <h1>Views</h1>
