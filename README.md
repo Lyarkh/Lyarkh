@@ -56,7 +56,7 @@
 <div align="center">
   <h2>𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎</h2>
   
-  ![Snake animation](https://github.com/Lyarkh/Lyarkh/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
