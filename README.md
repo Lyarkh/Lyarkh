@@ -1,65 +1,78 @@
-<div align="center">
-<h1 align = "center"/>  Oiie, eu sou o Lucas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="40" height="40"/></h1>
+<img src="https://cdn.discordapp.com/attachments/887544607599120404/1118716001920499722/rocket-green-fotor-bg-remover-20230614223747.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+  
+<div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=29A889&width=435&lines=Hello%2C+I+am+Lucas+%F0%9F%91%8B)](https://git.io/typing-svg)  
+  
 </div>
 
-<div align="center">
-  <div>
-    <img src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gifv" width="600px" align="center">
-  </div>
-</div>
-
-<div align="center">
-<h1>About me</h1>
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília <br>
-<!--Estudante de Engenharia de Software <br>-->
-Python Developer and Enthusiast of Machine Learning <br>
-</div>
-
-
-<div align="center">
-<h1>Stacks</h1>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,django,flask,go" /> <!--pytorch,tensorflow-->
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  </a>
+<p align="left"> 
+  Python Developer and Systems Analysis and Development student. I have hands-on experience in Python programming, developing robust and efficient applications.  
+  
+  Seeking opportunities to contribute to innovative projects and expand my technical skills.
 </p>
+
+<br>
+<br>
+
+<div align="center">
+  <h4>💼 Languages & Tools ⤵️</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  width="50px" height="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px" height="50px" />
+  <br><br>
 </div>
 
 <div align="center">
-<h1>Stats</h1>
-  <a href="https://github.com/Lyarkh">
-    
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Lyarkh&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyarkh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  <h4>💌 Contact me clicking in one of these links below! ⤵️</h4>
+  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=29A889&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?&color=29A889&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=29A889&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://profile.codersrank.io/user/Lyarkh" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=29A889&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a> 
+
   
-  <div align="center">
-  <h1>Contact</h1>
-  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=1A1B27&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?&color=1A1B27&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=1A1B27&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://profile.codersrank.io/user/Lyarkh" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?&color=1A1B27&style=for-the-badge&logo=CodersRank&logoColor=white" target="_blank"></a> 
+</div>
+
+  
+ 
+  
+
+<div align="center">
+  <h2>𝚂𝚝𝚊𝚝𝚜</h2>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=Lyarkh&theme=gotham"/>
+</div>
+
+<div align="center">
+  <h2>𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎</h2>
+  
+  ![Snake animation](https://github.com/Lyarkh/Lyarkh/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
 <div align="center">
-<h1>Snake Game</h1>
+  <h2>𝙹𝚘𝚔𝚎𝚜</h2>
 
-  ![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
   
 </div>
-  
-  <div align="center">
-<h1>Jokes</h1>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-</div>
-  
 
 <div align="center">
-<h1>Views</h1>
+  <h2>𝚅𝚒𝚎𝚠𝚜</h2>
 
-![](https://komarev.com/ghpvc/?username=lyarkh&color=8a2be2&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=lyarkh&color=29A889&style=for-the-badge)
 </div>   
+
+
+
