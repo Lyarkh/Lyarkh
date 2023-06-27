@@ -49,7 +49,7 @@
 
 <div align="center">
   <h2>𝚂𝚝𝚊𝚝𝚜</h2>  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyarkh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://streak-stats.demolab.com/?user=Lyarkh&theme=gotham"/>
 </div>
 
