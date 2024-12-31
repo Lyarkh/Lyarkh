@@ -53,7 +53,6 @@
 <div align="center">
   <h2>𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎</h2>
   
-  <!--![snake animation](https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg)-->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake.svg?palette=github-dark" />
