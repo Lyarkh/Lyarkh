@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	Python Developer and Systems Analysis and Development student. I have hands-on experience in Python programming, developing robust and efficient applications. Seeking opportunities to contribute to 	innovative projects and expand my technical skills.
+	Back-end and Python Developer. I have hands-on experience in Python programming, developing robust and efficient applications. Seeking opportunities to contribute to 	innovative projects and expand my technical skills.
   <h4>💌 Contact me clicking in one of these links below! ⤵️</h4>
   <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&color=785EF0&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=785EF0&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
